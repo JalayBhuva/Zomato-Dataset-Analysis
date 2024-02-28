@@ -6,7 +6,9 @@ In this project, I explored the diverse and detailed aspects of Bangalore's dini
 Analyzing the Zomato dataset about banglore's restaurants involves addressing challenges related to consumer's prefrences and area of intrests, diverse Cuisines, and evolving customer's taste.
 
 ## C. Tools
-Primary: MySQL Secondary: Structured Query Language
+Primary: MySQL 
+
+Secondary: Structured Query Language
 
 ## D. Problem faced?
 Data Cleaning: Incomplete or inconsistent data entries in the dataset.
